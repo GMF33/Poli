@@ -59,7 +59,7 @@ include_once("koneksi.php");
 
 <body>
     <!-- Responsive navbar-->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #0000ff">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #4942E4">
     <div class="container px-4">
         <a class="navbar-brand" href="index.php">
             <img src="dist/img/clinic.png" alt="Logo" height="30" class="d-inline-block align-top me-2">
@@ -92,7 +92,7 @@ include_once("koneksi.php");
 ?>
 
         <!-- Header-->
-        <header class="py-5" style="background-color:  #808080; border-bottom: 5px solid #ADD8E6;"> <!-- Change Color Banner and Add Border Here -->
+        <header class="py-5" style="background-color:  #F8E559; border-bottom: 5px solid #F8E559;"> <!-- Change Color Banner and Add Border Here -->
     <div class="container px-5" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);"> <!-- Add Border Radius and Box Shadow to the Container -->
         <div class="row gx-5 justify-content-center">
             <div class="col-lg-6">
@@ -145,7 +145,7 @@ include_once("koneksi.php");
 </section>
 
 <!-- Footer-->
-<footer class="main-footer px-4 py-2" style="background-color: #0000ff; color: #fff; text-align: center;">
+<footer class="main-footer px-4 py-2" style="background-color: #4942E4; color: #fff; text-align: center;">
 <strong>
     Copyright ©
     <script>
